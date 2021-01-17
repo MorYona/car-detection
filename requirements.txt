@@ -1,0 +1,8 @@
+Download the network weights from:
+https://pjreddie.com/media/files/yolov3.weights
+
+
+# base ----------------------------------------
+python >= 3.7
+numpy >=1.18.5
+opencv-python >= 4.5.1.48
